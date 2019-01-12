@@ -7,7 +7,7 @@
  * For the full list of options, go to:
  * https://github.com/php-telegram-bot/telegram-bot-manager#set-extra-bot-parameters
  */
-
+ 
 // Load composer
 require_once __DIR__ . '/vendor/autoload.php';
 
